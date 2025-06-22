@@ -1,0 +1,25 @@
+baseURL = 'https://nhdurrant.com/'
+
+theme = "LoveIt"
+
+
+title = "Nathan Durrant"
+
+
+# language code ["en", "zh-CN", "fr", "pl", ...]
+
+languageCode = "en"
+
+# language name ["English", "简体中文", "Français", "Polski", ...]
+
+[params.header]
+[params.header.title]
+name = "Nathan Durrant"
+typeit = false
+
+[params.home]
+[params.home.profile]
+enable = true
+title = "Welcome to my Personal Website"
+subtitle = "Mathematics and Physics Student at the University of Warwick"
+avatarURL = "/images/test.jpg"
